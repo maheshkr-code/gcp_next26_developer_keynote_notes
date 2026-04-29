@@ -1,11 +1,17 @@
 #### My napkin notes of [Google Cloud Next '26 Developer Keynote](https://www.youtube.com/watch?v=A01DQ8_xy7Q)
 
+[Announcement Blog](https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-agent-platform)
+
 1. Build
 2. Scale
 3. Govern
 4. Optimize
    
 <img width="882" height="552" alt="image" src="https://github.com/user-attachments/assets/425f29e0-acbf-4289-993b-679450b0d146"/>
+
+<img width="944" height="536" alt="image" src="https://github.com/user-attachments/assets/c87461fc-5d28-4d34-9d6a-07a75f11dfb7" />
+
+<img width="1003" height="582" alt="image" src="https://github.com/user-attachments/assets/04440511-2a83-4b9b-8486-017d261ce0f6" />
 
 #### 1. Build
 <img width="517" height="372" alt="image" src="https://github.com/user-attachments/assets/b71e1bc0-12c7-4203-9a21-e5e99b6d0a29" />
