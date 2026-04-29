@@ -2,13 +2,23 @@
 
 [Announcement Blog](https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-agent-platform)
 
-**Gemini Enterprise Agent Platform **(formerly known as Vertex AI Agent Builder) and the core Vertex AI platform depends entirely on how much control you want over the "plumbing" of your AI vs. how fast you want to deploy a functional agent.
+**Gemini Enterprise Agent Platform** (formerly known as Vertex AI Agent Builder) and the core Vertex AI platform depends entirely on how much control you want over the "plumbing" of your AI vs. how fast you want to deploy a functional agent.
 
 **Gemini Enterprise Agent Platform**
 This is a high-abstraction environment. It is designed for developers and business users who want to build "Agentic" systems—AI that doesn't just talk but acts—without managing the underlying machine learning infrastructure. It bundles grounding, orchestration, and tool-calling into a unified interface.
-
+   - Building and deploying "Agents" quickly.
+   - Product Managers, Devs, Business Users.
+   - Low to Medium (No-code / Low-code).
+   - Opinionated (Google handles chunking/RAG).
+   - Chatbots, Search apps, Support agents.
+     
 **Vertex AI (Core Platform)**
 This is a low-abstraction environment. It is the full-stack home for data scientists and ML engineers. It provides the raw tools to train models from scratch, fine-tune existing ones (like Gemini 1.5 Pro), and build custom RAG (Retrieval-Augmented Generation) pipelines where you control every single variable
+   - Managing the full ML lifecycle.
+   - Data Scientists, ML Engineers.
+   - High (Pro-code / DIY).
+   - Full control over embeddings & logic.
+   - Custom models, specialized RAG, MLOps.
 
 1. Build
 2. Scale
@@ -82,5 +92,6 @@ MultiAgent System:
 <img width="1162" height="441" alt="image" src="https://github.com/user-attachments/assets/c01c5a90-119c-4e51-b357-ef23fce10dec" />
 
 
+<img width="925" height="599" alt="image" src="https://github.com/user-attachments/assets/ad5a040a-371e-4bf5-8601-e06913490f44" />
 
 
