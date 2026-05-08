@@ -1,30 +1,37 @@
-#### My napkin notes of [Google Cloud Next '26 Developer Keynote](https://www.youtube.com/watch?v=A01DQ8_xy7Q)
+### My napkin notes of [Google Cloud Next '26 Developer Keynote](https://www.youtube.com/watch?v=A01DQ8_xy7Q)
 
 [Announcement Blog](https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-agent-platform)
 
 Google Cloud Next 26 Openinng keynote - highlights
 
-** Gemini Enterprise Agent Platform**
-Build Scale Govern Optimize
-    - Agent Taskforce
-    - Agentic Platform and Models
-    - Agentic Defence
-    - Agentic Data Cloud 9
-    - AI Hypercomputer
+**Gemini Enterprise Agent Platform** (~~Vertex AI~~)
 
+[ Build - Scale - Govern - Optimize ]
+
+```
+    1. Agent Taskforce
+    2. Agentic Platform and Models
+    3. Agentic Defence
+    4. Agentic Data Cloud 9
+    5. AI Hypercomputer
+```
  GA
+ ```
   - Agent Identity
   - Agent Runtime
   - Agent Identity
-
+```
  Preview
+ ```
    - Agent Studio
    - Agent Registry 
    - Agent Gateway 
    - Agent Simulation 
    - Agent Observability
+```
+Agentic Data Cloud
 
-Agentic Data Cloud ->>  BigQuery and Spanner are the "muscles" and "memory," while the Agentic Data Cloud is the "nervous system" that allows Gemini to use them to take real- world actions. The reason these two services are grouped under the Agentic Data Cloud is the new Knowledge Catalog (formerly Dataplex). It acts as the translator. If an agent wants to know "How is the Merck deal going?", the Knowledge Catalog looks across BigQuery (historical data), Spanner (current orders), and Google Cloud Storage (the contract PDF) to provide a single, grounded truth.
+BigQuery and Spanner are the "muscles" and "memory," while the Agentic Data Cloud is the "nervous system" that allows Gemini to use them to take real- world actions. The reason these two services are grouped under the Agentic Data Cloud is the new Knowledge Catalog (formerly Dataplex). It acts as the translator. If an agent wants to know "How is the Merck deal going?", the Knowledge Catalog looks across BigQuery (historical data), Spanner (current orders), and Google Cloud Storage (the contract PDF) to provide a single, grounded truth.
 
     Gemini 3.1 pro - new 
     Gemini 3.1 Flash image - nano banano 2 - preview 
