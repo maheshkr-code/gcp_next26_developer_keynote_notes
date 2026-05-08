@@ -2,6 +2,65 @@
 
 [Announcement Blog](https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-agent-platform)
 
+Google Cloud Next 26 Openinng keynote - highlights
+
+** Gemini Enterprise Agent Platform**
+Build Scale Govern Optimize
+    - Agent Taskforce
+    - Agentic Platform and Models
+    - Agentic Defence
+    - Agentic Data Cloud 9
+    - AI Hypercomputer
+
+ GA
+  - Agent Identity
+  - Agent Runtime
+  - Agent Identity
+
+ Preview
+   - Agent Studio
+   - Agent Registry 
+   - Agent Gateway 
+   - Agent Simulation 
+   - Agent Observability
+
+Agentic Data Cloud ->>  BigQuery and Spanner are the "muscles" and "memory," while the Agentic Data Cloud is the "nervous system" that allows Gemini to use them to take real- world actions. The reason these two services are grouped under the Agentic Data Cloud is the new Knowledge Catalog (formerly Dataplex). It acts as the translator. If an agent wants to know "How is the Merck deal going?", the Knowledge Catalog looks across BigQuery (historical data), Spanner (current orders), and Google Cloud Storage (the contract PDF) to provide a single, grounded truth.
+
+    Gemini 3.1 pro - new 
+    Gemini 3.1 Flash image - nano banano 2 - preview 
+    Veo 3.1 Lite - preview 
+    Lyria 3 - preview (audio/music) 
+    Anthorpic Claude Opus 4.7
+----------------------------------------------------
+
+Projects in Gemini Enterprise
+
+Google Cloud Data Agent Kit
+
+    Current Product name : New Name (post Google Next 26)
+    BigLake             -> Lakehouse (managed Apache Iceberg storage)
+    BigLake Metastore   -> Lakehouse Runtime Catalog
+    Dataplex            -> knowledge Catalog
+    Dataproc            -> Managed service for Apache Spark
+    Composer            -> Managed service for Apache Airflow
+    Looker Studio       -> Data Studio 
+    Vertex AI           -> Gemini Enterprise Agent Platform
+    Agentspace          -> Gemini Enterprise
+    Gemini for Workspace-> Gemini Enterprise App 
+    Vertex AI Designer  -> Gemini Enterprise app includes Agent Designer
+----------------------------------------------------
+All about Apache services offered as Managed svc from Google Cloud
+
+    Managed Service for Apache Spark (Dataproc)	   -> Apache Spark	 - Large-scale data processing and analytics.
+    Cloud Composer	                              -> Apache Airflow	 - Workflow orchestration and pipeline management.
+    Managed Service for Apache Kafk                -> Apache Kafka	 - Real-time event streaming and messaging.
+    Dataflow	                                    -> Apache Beam	    - Unified stream and batch data processing.
+    Memorystore for Med	                           -> Apache Memcached - Distributed in-memory key-value store for caching.
+    Cloud Bigtable	                              -> Apache HBase	- High-performance                
+    Dataproc Metastore	                           -> Apache Hive	 - Centralized metadata management based on the Hive Metastore.
+    Managed Service for Apache Flink	            -> Apache Flink	- Stream processing
+----------------------------------------------------
+
 **Gemini Enterprise Agent Platform** (formerly known as Vertex AI Agent Builder) and the core Vertex AI platform depends entirely on how much control you want over the "plumbing" of your AI vs. how fast you want to deploy a functional agent.
 
 **Gemini Enterprise Agent Platform**
