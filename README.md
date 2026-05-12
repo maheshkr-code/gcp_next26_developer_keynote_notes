@@ -160,4 +160,28 @@ MultiAgent System:
 
 <img width="925" height="599" alt="image" src="https://github.com/user-attachments/assets/ad5a040a-371e-4bf5-8601-e06913490f44" />
 
+<img width="1383" height="748" alt="image" src="https://github.com/user-attachments/assets/bb27b7e3-5c11-4792-81a4-c06c2b757342" />
 
+<img width="1397" height="760" alt="image" src="https://github.com/user-attachments/assets/210ef7f1-ac82-4911-beb0-a3628c8b6dd7" />
+
+<img width="1347" height="792" alt="image" src="https://github.com/user-attachments/assets/1925710e-b7a6-43a4-831f-5776f5e043e0" />
+
+<img width="1402" height="688" alt="image" src="https://github.com/user-attachments/assets/74b037f9-f9f9-45ce-bead-e54db29bc760" />
+
+<img width="1393" height="788" alt="image" src="https://github.com/user-attachments/assets/12c4b4dd-5eb4-4f0b-bbd7-5cb932a02933" />
+
+<img width="1337" height="717" alt="image" src="https://github.com/user-attachments/assets/10350548-dfef-4268-8fe5-b0ad3cedc20a" />
+
+<img width="1281" height="702" alt="image" src="https://github.com/user-attachments/assets/0c8b5623-b693-4fa9-97eb-ec9b743096ab" />
+
+<img width="1297" height="722" alt="image" src="https://github.com/user-attachments/assets/77105715-d64a-443f-9f41-6d411fc87a43" />
+
+<img width="1358" height="761" alt="image" src="https://github.com/user-attachments/assets/33a4491f-fd08-46cc-814d-0556e7581e26" />
+
+<img width="1357" height="682" alt="image" src="https://github.com/user-attachments/assets/fdc271ba-155e-4cbe-b20a-b426afa54466" />
+
+<img width="953" height="757" alt="image" src="https://github.com/user-attachments/assets/a292ff73-81ba-40e4-93c9-893ece16fa46" />
+
+<img width="1343" height="742" alt="image" src="https://github.com/user-attachments/assets/883caa4f-2589-4d3b-a41e-9dd1a0d0b949" />
+
+<img width="1377" height="766" alt="image" src="https://github.com/user-attachments/assets/ede46dbe-70c6-495b-9e25-cc63318a3991" />
