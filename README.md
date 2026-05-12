@@ -92,96 +92,132 @@ This is a low-abstraction environment. It is the full-stack home for data scient
 4. Optimize
    
 <img width="882" height="552" alt="image" src="https://github.com/user-attachments/assets/425f29e0-acbf-4289-993b-679450b0d146"/>
-
+</br> 
 <img width="944" height="536" alt="image" src="https://github.com/user-attachments/assets/c87461fc-5d28-4d34-9d6a-07a75f11dfb7" />
-
+</br> 
 <img width="1003" height="582" alt="image" src="https://github.com/user-attachments/assets/04440511-2a83-4b9b-8486-017d261ce0f6" />
-
+</br> 
 #### 1. Build
 <img width="517" height="372" alt="image" src="https://github.com/user-attachments/assets/b71e1bc0-12c7-4203-9a21-e5e99b6d0a29" />
-
+</br> 
 #### 2. Scale 
 <img width="801" height="292" alt="image" src="https://github.com/user-attachments/assets/9ecbd740-9d71-4aa6-b9f3-0eb593190841" />
 Sessions & memory - context of agents 
-
+</br> 
 #### 3. Govern 
 #### 4. Optimize 
 <img width="1263" height="545" alt="image" src="https://github.com/user-attachments/assets/d42c2433-13c3-4b43-8d24-b4768ba2598c" />
-
+</br> 
 ---
 <img width="648" height="400" alt="image" src="https://github.com/user-attachments/assets/0be0a085-8e38-420a-9600-dbcbab7ad642" />
-
+</br> 
 ---
 <img width="1666" height="745" alt="image" src="https://github.com/user-attachments/assets/ea379f28-562e-4b76-af14-838dc2380afe" />
-
+</br> 
 <img width="1086" height="796" alt="image" src="https://github.com/user-attachments/assets/ad843931-82dc-4598-8cb3-ed27aa0e2a06" />
-
+</br> 
 <img width="711" height="498" alt="image" src="https://github.com/user-attachments/assets/c35108ee-5bab-4d40-bc76-c91ebb2f9137" />
-
+</br> 
 <img width="1406" height="797" alt="image" src="https://github.com/user-attachments/assets/1cfdf391-2a50-4c80-ba4c-37653b6bd748" />
-
+</br> 
 <img width="1705" height="857" alt="image" src="https://github.com/user-attachments/assets/ae3ae08f-3ed1-47bf-ae63-333c5f4ef124" />
-
+</br> 
 <img width="1427" height="820" alt="image" src="https://github.com/user-attachments/assets/80487d64-b74d-450a-9df2-b29ad6c4b3da" />
-
+</br> 
 <img width="1385" height="792" alt="image" src="https://github.com/user-attachments/assets/614e372b-58ba-4450-b837-410e0567204c" />
-
+</br> 
 <img width="1405" height="800" alt="image" src="https://github.com/user-attachments/assets/bde8f42f-9e2f-48cb-b35d-cf8f1c3052b7" />
-
+</br> 
 <img width="820" height="450" alt="image" src="https://github.com/user-attachments/assets/6a7db513-f6a3-453f-90d2-fa2ecd92dd40" />
-
+</br> 
 <img width="1422" height="793" alt="image" src="https://github.com/user-attachments/assets/591ec401-d7f8-49be-a472-3f7aa7286d55" />
-
+</br> 
 <img width="1406" height="791" alt="image" src="https://github.com/user-attachments/assets/2ffff776-df9f-4070-b742-d9193d42d6f5" />
-
+</br> 
 <img width="1430" height="818" alt="image" src="https://github.com/user-attachments/assets/387c1ed9-df50-4999-bd45-bcdad518bb2f" />
-
+</br> 
 <img width="1410" height="786" alt="image" src="https://github.com/user-attachments/assets/838322e6-87ab-4cfb-90ac-de338e34a933" />
-
+</br> 
 <img width="1097" height="560" alt="image" src="https://github.com/user-attachments/assets/9aa70bef-b7cb-40b0-8f60-6d87c7eae0c8" />
-
+</br> 
 <img width="542" height="483" alt="image" src="https://github.com/user-attachments/assets/b9f9ecb7-ccb8-4e79-967d-91cea501d155" />
 
 ---
 MultiAgent System:
 <img width="1267" height="558" alt="image" src="https://github.com/user-attachments/assets/3c24935b-53c4-4990-8c69-2a402ca0bcc2" />
-
+</br> 
 <img width="922" height="422" alt="image" src="https://github.com/user-attachments/assets/986d8784-8aad-4075-9eb9-5bcad06e6d0a" />
-
+</br> 
 <img width="935" height="455" alt="image" src="https://github.com/user-attachments/assets/fe960572-4d41-4c3e-9c55-9fbc9f997084" />
-
+</br> 
 <img width="1016" height="592" alt="image" src="https://github.com/user-attachments/assets/3d63b504-a6ee-42c3-8513-cfa187b3dd5f" />
-
+</br> 
 <img width="1396" height="792" alt="image" src="https://github.com/user-attachments/assets/1bedbbe4-93a5-4642-87ef-5419c48d1e6c" />
-
+</br> 
 
 <img width="1162" height="441" alt="image" src="https://github.com/user-attachments/assets/c01c5a90-119c-4e51-b357-ef23fce10dec" />
 
-
+</br> 
 <img width="925" height="599" alt="image" src="https://github.com/user-attachments/assets/ad5a040a-371e-4bf5-8601-e06913490f44" />
-
+</br> 
 <img width="1383" height="748" alt="image" src="https://github.com/user-attachments/assets/bb27b7e3-5c11-4792-81a4-c06c2b757342" />
-
+</br> 
 <img width="1397" height="760" alt="image" src="https://github.com/user-attachments/assets/210ef7f1-ac82-4911-beb0-a3628c8b6dd7" />
-
+</br> 
 <img width="1347" height="792" alt="image" src="https://github.com/user-attachments/assets/1925710e-b7a6-43a4-831f-5776f5e043e0" />
-
+</br> 
 <img width="1402" height="688" alt="image" src="https://github.com/user-attachments/assets/74b037f9-f9f9-45ce-bead-e54db29bc760" />
-
+</br> 
 <img width="1393" height="788" alt="image" src="https://github.com/user-attachments/assets/12c4b4dd-5eb4-4f0b-bbd7-5cb932a02933" />
-
+</br> 
 <img width="1337" height="717" alt="image" src="https://github.com/user-attachments/assets/10350548-dfef-4268-8fe5-b0ad3cedc20a" />
-
+</br> 
 <img width="1281" height="702" alt="image" src="https://github.com/user-attachments/assets/0c8b5623-b693-4fa9-97eb-ec9b743096ab" />
-
+</br> 
 <img width="1297" height="722" alt="image" src="https://github.com/user-attachments/assets/77105715-d64a-443f-9f41-6d411fc87a43" />
-
+</br> 
 <img width="1358" height="761" alt="image" src="https://github.com/user-attachments/assets/33a4491f-fd08-46cc-814d-0556e7581e26" />
-
+</br> 
 <img width="1357" height="682" alt="image" src="https://github.com/user-attachments/assets/fdc271ba-155e-4cbe-b20a-b426afa54466" />
-
+</br> 
 <img width="953" height="757" alt="image" src="https://github.com/user-attachments/assets/a292ff73-81ba-40e4-93c9-893ece16fa46" />
-
+</br> 
 <img width="1343" height="742" alt="image" src="https://github.com/user-attachments/assets/883caa4f-2589-4d3b-a41e-9dd1a0d0b949" />
-
+</br> 
 <img width="1377" height="766" alt="image" src="https://github.com/user-attachments/assets/ede46dbe-70c6-495b-9e25-cc63318a3991" />
+
+**SECURITY : AI-APP**
+
+<img width="963" height="531" alt="image" src="https://github.com/user-attachments/assets/a7a259f6-e971-45b0-9380-3526f7bbf9b8" />
+
+</br> 
+<img width="928" height="516" alt="image" src="https://github.com/user-attachments/assets/106ab0ef-97a2-41eb-bcf3-bd1b5cf91a39" />
+</br> 
+
+<img width="923" height="587" alt="image" src="https://github.com/user-attachments/assets/3673fe5f-b3b2-4df5-b971-755845f3dc3d" />
+
+</br> 
+<img width="938" height="543" alt="image" src="https://github.com/user-attachments/assets/7ae1364d-2d60-409c-93fd-7cc0f409e624" />
+</br> 
+<img width="922" height="542" alt="image" src="https://github.com/user-attachments/assets/acdf445e-ee85-4ed7-936f-bbcdab465da9" />
+</br> 
+<img width="940" height="553" alt="image" src="https://github.com/user-attachments/assets/188b0c86-3d70-4aa5-ac9b-fe9e03da0def" />
+</br> 
+<img width="933" height="527" alt="image" src="https://github.com/user-attachments/assets/70418792-dad0-48cd-af90-a6e01092354a" />
+</br> 
+<img width="917" height="510" alt="image" src="https://github.com/user-attachments/assets/36826d61-4050-4ea3-be63-632cafc481b8" />
+</br> 
+<img width="946" height="513" alt="image" src="https://github.com/user-attachments/assets/2f29c870-ca47-46de-bc0a-3cdd7d800802" />
+</br> 
+<img width="902" height="515" alt="image" src="https://github.com/user-attachments/assets/f7628e57-d9b6-4d9a-9161-69b67517f206" />
+
+</br> 
+<img width="906" height="523" alt="image" src="https://github.com/user-attachments/assets/53ca6449-4645-4456-b63a-075d6654d153" />
+
+</br> 
+<img width="922" height="510" alt="image" src="https://github.com/user-attachments/assets/9a40c607-0bd3-4fae-b701-bcf1007ecda8" />
+
+</br> 
+
+</br> 
+</br> 
