@@ -218,6 +218,24 @@ MultiAgent System:
 <img width="922" height="510" alt="image" src="https://github.com/user-attachments/assets/9a40c607-0bd3-4fae-b701-bcf1007ecda8" />
 
 </br> 
+<img width="1385" height="768" alt="image" src="https://github.com/user-attachments/assets/813c76e6-559b-43a3-9136-31998d6d227f" />
+
+</br> 
+<img width="1333" height="713" alt="image" src="https://github.com/user-attachments/assets/faae95b9-e36b-4826-a96c-0e2db5d79d7c" />
+
+</br> 
+<img width="1357" height="707" alt="image" src="https://github.com/user-attachments/assets/25f9d21f-1ca5-4d11-8752-6a4573af2607" />
+</br> 
+<img width="1332" height="617" alt="image" src="https://github.com/user-attachments/assets/9d39ddfd-504f-4a47-ad46-967d9d5e1fd3" />
+
+</br> 
+<img width="1312" height="636" alt="image" src="https://github.com/user-attachments/assets/bcf64dbb-77bd-4dbf-8ad6-f45bc134a3d7" />
+
+</br> 
+<img width="1358" height="730" alt="image" src="https://github.com/user-attachments/assets/8b0cd358-96a0-4e5c-bf6f-8b841b18f837" />
 
 </br> 
 </br> 
+
+</br> 
+
